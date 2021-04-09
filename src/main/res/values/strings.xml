@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">4.1 PASS</string>
+    <string name="startButtonString">Start</string>
+    <string name="pauseButtonString">Pause</string>
+    <string name="stopButtonString">Stop</string>
+    <string name="scoreString">score</string>
+    <string name="textViewString">You spent 00:00:00 on push ups last time</string>
+    <string name="textView2String">Enter your workout type:</string>
+    <string name="editTextString"></string>
+</resources>
